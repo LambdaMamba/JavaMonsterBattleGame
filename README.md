@@ -23,7 +23,9 @@ The game ends once your monster's health is gone.
 
 All sprites were made using Procreate.
 
-A short demo:
+A short demo can be seen below.
+
+
 ![](demo.gif) 
 
 The full demo can be seen in [my Youtube Video](https://youtu.be/b9doC8p-Cvk).
