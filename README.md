@@ -21,7 +21,7 @@ The game proceeds to the next level once the enemy's health is drained.
 The game ends once your monster's health is gone.
 
 
-All sprites were made using Procreate.
+All sprites and game assets were made by me using Procreate.
 
 A short demo can be seen below.
 
